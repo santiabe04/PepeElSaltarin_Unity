@@ -1,0 +1,660 @@
+fileFormatVersion: 2
+guid: d6515058bf922cd4b9900cf6a781f68f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3068856843508019787
+    second: SP_squit_0
+  - first:
+      213: 8032395724764321675
+    second: Squit - atlas0 #0280018_1
+  - first:
+      213: -189830479995328815
+    second: Squit - atlas0 #0280018_4
+  - first:
+      213: -1492872834323810228
+    second: Squit - atlas0 #0280018_5
+  - first:
+      213: 8019760193064782469
+    second: Squit - atlas0 #0280018_6
+  - first:
+      213: -7071951628325376747
+    second: Squit - atlas0 #0280018_7
+  - first:
+      213: 3454582170457023634
+    second: Squit - atlas0 #0280018_8
+  - first:
+      213: 1985136885002557409
+    second: Squit - atlas0 #0280018_9
+  - first:
+      213: -4946180692109757726
+    second: Squit - atlas0 #0280018_10
+  - first:
+      213: 8146208599101895256
+    second: Squit - atlas0 #0280018_11
+  - first:
+      213: -2123822752014148212
+    second: Squit - atlas0 #0280018_13
+  - first:
+      213: 2913418385355781159
+    second: Squit - atlas0 #0280018_14
+  - first:
+      213: 6162468145325916654
+    second: Squit - atlas0 #0280018_15
+  - first:
+      213: -5517489044406616764
+    second: Squit - atlas0 #0280018_16
+  - first:
+      213: 1694507093492190428
+    second: Squit - atlas0 #0280018_17
+  - first:
+      213: 3282998567043790553
+    second: Squit - atlas0 #0280018_19
+  - first:
+      213: -5981746440223619987
+    second: Squit - atlas0 #0280018_21
+  - first:
+      213: 7286703219931829080
+    second: Squit - atlas0 #0280018_22
+  - first:
+      213: -6638496445936056719
+    second: Squit - atlas0 #0280018_25
+  - first:
+      213: -1452320189265435717
+    second: Squit - atlas0 #0280018_26
+  - first:
+      213: 6159097020164878960
+    second: Squit - atlas0 #0280018_30
+  - first:
+      213: -2369323788413855241
+    second: Squit - atlas0 #0280018_31
+  - first:
+      213: -3592884464581381084
+    second: Squit - atlas0 #0280018_2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SP_squit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 645
+        width: 72
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd8d28d5fa3965d0800000000000000
+      internalID: -3068856843508019787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squit - atlas0 #0280018_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 716
+        width: 115
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8791fdaa5dc87f60800000000000000
+      internalID: 8032395724764321675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squit - atlas0 #0280018_4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 608
+        width: 83
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d626582f269d5df0800000000000000
+      internalID: -189830479995328815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squit - atlas0 #0280018_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 531
+        width: 56
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c487c471110484be0800000000000000
+      internalID: -1492872834323810228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squit - atlas0 #0280018_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 524
+        width: 109
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ac173b769eb4f60800000000000000
+      internalID: 8019760193064782469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squit - atlas0 #0280018_7
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 620
+        width: 109
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dabec76716bdd90800000000000000
+      internalID: -7071951628325376747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squit - atlas0 #0280018_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 400
+        width: 110
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2942d7d4e2421ff20800000000000000
+      internalID: 3454582170457023634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squit - atlas0 #0280018_9
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 514
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e75a1daa7f9c8b10800000000000000
+      internalID: 1985136885002557409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squit - atlas0 #0280018_10
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 469
+        width: 96
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2f6e3ddd2ab5bb0800000000000000
+      internalID: -4946180692109757726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squit - atlas0 #0280018_11
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 428
+        width: 135
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85273b77f852d0170800000000000000
+      internalID: 8146208599101895256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squit - atlas0 #0280018_13
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 392
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ddd44a57aa682e0800000000000000
+      internalID: -2123822752014148212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squit - atlas0 #0280018_14
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 352
+        width: 125
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7243935e59a8e6820800000000000000
+      internalID: 2913418385355781159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squit - atlas0 #0280018_15
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 216
+        width: 63
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1cfc5c02c758550800000000000000
+      internalID: 6162468145325916654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squit - atlas0 #0280018_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 289
+        width: 116
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44db80072f0fd63b0800000000000000
+      internalID: -5517489044406616764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squit - atlas0 #0280018_17
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 270
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc4bf04939148710800000000000000
+      internalID: 1694507093492190428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squit - atlas0 #0280018_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 236
+        width: 131
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6f2ca7dcd8f8d20800000000000000
+      internalID: 3282998567043790553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squit - atlas0 #0280018_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 119
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6483062e419cfca0800000000000000
+      internalID: -5981746440223619987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squit - atlas0 #0280018_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 120
+        width: 109
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8535bbfc8f19f1560800000000000000
+      internalID: 7286703219931829080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squit - atlas0 #0280018_25
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 116
+        width: 135
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176c94997a25fd3a0800000000000000
+      internalID: -6638496445936056719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squit - atlas0 #0280018_26
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 61
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3a4ba8b7258dbe0800000000000000
+      internalID: -1452320189265435717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squit - atlas0 #0280018_30
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 149
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07238188b12897550800000000000000
+      internalID: 6159097020164878960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squit - atlas0 #0280018_31
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 0
+        width: 143
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f995b151987e1fd0800000000000000
+      internalID: -2369323788413855241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squit - atlas0 #0280018_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 133
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4247b998d92832ec0800000000000000
+      internalID: -3592884464581381084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -58,6 +58,9 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\SC_player.cs" />
     <Compile Include="Assets\SC_endattack.cs" />
+    <Compile Include="Assets\Scripts\SC_camera.cs" />
+    <Compile Include="Assets\Scripts\SC_squit.cs" />
+    <Compile Include="Assets\Scripts\SC_geodrop.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

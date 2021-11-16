@@ -16,10 +16,12 @@ public class SC_player : MonoBehaviour
     public LayerMask terrainmask;
     public Animator anim;
 
+    private Vector2 initialpos;
+
     // Start is called before the first frame update
     void Start()
     {
-        
+        initialpos = this.transform.position;
     }
 
     // Update is called once per frame
@@ -62,14 +64,22 @@ public class SC_player : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.tag == "Enemy")
+        Transform t = this.GetComponent<Transform>();
+
+        if (collision.tag == "Enemy") {
+            if (collision.gameObject != null)
+                collision.gameObject.GetComponent<SC_squit>().Morir();
+        }
+        if (collision.tag == "Exit")
             collision.gameObject.SetActive(false);
+        if (collision.tag == "Limit")
+            t.position = initialpos;
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.tag == "Enemy")
-            gameObject.SetActive(false);
+            this.transform.position = initialpos;
     }
 
     private void FixedUpdate()
